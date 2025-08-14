@@ -1,0 +1,4 @@
+1. Create a git repo and clone it in "local"
+2. Generate sample data
+3. Push new changes to git and initialize dvc.
+
